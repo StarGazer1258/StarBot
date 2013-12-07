@@ -1,0 +1,87 @@
+Fri Dec 06 17:36:28 MST 2013 Star_: Netsplit!
+Fri Dec 06 18:05:02 MST 2013 Star_: !op trippin
+Fri Dec 06 18:05:34 MST 2013 Caaz: Such things.
+Fri Dec 06 18:05:40 MST 2013 Star_: !op Caaz
+Fri Dec 06 18:05:59 MST 2013 Caaz: So what've you added?
+Fri Dec 06 18:06:02 MST 2013 Caaz: !help
+Fri Dec 06 18:06:05 MST 2013 Caaz: !games
+Fri Dec 06 18:06:08 MST 2013 Star_: !define questions
+Fri Dec 06 18:06:21 MST 2013 Caaz: ~define questions
+Fri Dec 06 18:06:24 MST 2013 Pino: 14Definition 1 of 5 06to ask (someone14 a question; ask questions of; interrogate)
+Fri Dec 06 18:06:24 MST 2013 Caaz: DUN DUN DUUUUN.
+Fri Dec 06 18:06:40 MST 2013 Star_: Havent updated that list in a while
+Fri Dec 06 18:06:54 MST 2013 Star_: Oh, that wasnt suppsed to define the word
+Fri Dec 06 18:07:06 MST 2013 Caaz: I figured, just things
+Fri Dec 06 18:07:09 MST 2013 Star_: It defines installed plugins
+Fri Dec 06 18:07:13 MST 2013 Caaz: Ah.
+Fri Dec 06 18:07:15 MST 2013 Caaz: ~Plugins
+Fri Dec 06 18:07:15 MST 2013 Pino: Loaded Plugins : [Define v1] [The Dungeon v1.2] [Blackjack v1 r3] [The Adventure v1] [Commands v1] [Utilities v1 r3] [Colorblind v2 r3] [Userbase v1 r4] [Help v2] [Core v1 r1] [Hangman v1 r2]
+Fri Dec 06 18:07:31 MST 2013 Star_: !hbomb
+Fri Dec 06 18:07:41 MST 2013 Star_: :D
+Fri Dec 06 18:07:54 MST 2013 Caaz: fukishima now comes in IRC flavor.
+Fri Dec 06 18:08:21 MST 2013 Star_: StarCat_?
+Fri Dec 06 18:08:29 MST 2013 Star_: purr for me?
+Fri Dec 06 18:08:54 MST 2013 Star_: !numbergame
+Fri Dec 06 18:08:57 MST 2013 Star_: 12
+Fri Dec 06 18:09:01 MST 2013 Star_: 56
+Fri Dec 06 18:09:05 MST 2013 Star_: 34
+Fri Dec 06 18:09:08 MST 2013 Caaz: 20
+Fri Dec 06 18:09:08 MST 2013 Star_: 23
+Fri Dec 06 18:09:14 MST 2013 Caaz: 30
+Fri Dec 06 18:09:14 MST 2013 Star_: 25
+Fri Dec 06 18:09:24 MST 2013 Star_: Hah!
+Fri Dec 06 18:09:29 MST 2013 Star_: Still fun!
+Fri Dec 06 18:10:14 MST 2013 Star_: Cant remember what else I added
+Fri Dec 06 18:10:21 MST 2013 Star_: Not at my comp right now
+Fri Dec 06 18:10:45 MST 2013 Star_: Ih, right!
+Fri Dec 06 18:10:53 MST 2013 Star_: I added a log
+Fri Dec 06 18:11:26 MST 2013 Caaz: neat.
+Fri Dec 06 18:11:28 MST 2013 Caaz: Oh you know what youshould do
+Fri Dec 06 18:11:35 MST 2013 Caaz: have it up in #bots
+Fri Dec 06 18:11:35 MST 2013 Star_: Gm?
+Fri Dec 06 18:11:41 MST 2013 Star_: Nah
+Fri Dec 06 18:11:51 MST 2013 Star_: Nit even done yet
+Fri Dec 06 18:12:02 MST 2013 Caaz: Ah, yeah I guess it's kind of important for it to be done.
+Fri Dec 06 18:12:12 MST 2013 Star_: Havent even scratched the surface
+Fri Dec 06 18:12:13 MST 2013 Caaz: Pino's on the botlist in there and everything :D
+Fri Dec 06 18:12:44 MST 2013 Star_: Nice!
+Fri Dec 06 18:13:36 MST 2013 Star_: Besides, it's more if my personal project
+Fri Dec 06 18:13:42 MST 2013 Star_: Of*
+Fri Dec 06 18:13:56 MST 2013 Caaz: I'm halfway doing my bot for popularity now
+Fri Dec 06 18:14:03 MST 2013 Caaz: Made a big ol RPG style game even.
+Fri Dec 06 18:14:08 MST 2013 Caaz: And achievements.
+Fri Dec 06 18:14:38 MST 2013 Star_: Oh?
+Fri Dec 06 18:16:12 MST 2013 Caaz: ~view Arcon
+Fri Dec 06 18:16:12 MST 2013 Pino: 14Arcon14: [Name: 14Blood Soaked HASH(0x7f8983abeae0)14] [Points: 14774914] [Achievements: 14214] 
+Fri Dec 06 18:16:20 MST 2013 Caaz: ~achievements ~arcon
+Fri Dec 06 18:16:20 MST 2013 Pino: 14There isn't a user with the account name ~arcon
+Fri Dec 06 18:16:22 MST 2013 Caaz: hrm
+Fri Dec 06 18:16:24 MST 2013 Caaz: ~achievements arcon
+Fri Dec 06 18:16:24 MST 2013 Pino: 14Arcon14: 14[Achievements:14Slayer14|14Explorer14|]
+Fri Dec 06 18:16:29 MST 2013 Caaz: Yeah I gotta fix that.
+Fri Dec 06 18:16:38 MST 2013 Caaz: And also the colors that should show up red when I look him up
+Fri Dec 06 18:16:38 MST 2013 Star_: What happened?
+Fri Dec 06 18:17:09 MST 2013 Caaz: Just looks stupid.
+Fri Dec 06 18:17:58 MST 2013 Star_: Oh, nvm
+Fri Dec 06 18:20:28 MST 2013 Caaz: ~reload
+Fri Dec 06 18:20:28 MST 2013 Pino: 1406Reloading14.
+Fri Dec 06 18:20:30 MST 2013 Caaz: ~achievements arcon
+Fri Dec 06 18:20:30 MST 2013 Pino: 04Arcon14: 14[Achievements: 04Slayer14 | 04Explorer14]
+Fri Dec 06 18:20:33 MST 2013 Caaz: There we go.
+Fri Dec 06 18:22:23 MST 2013 Star_: Nice
+Fri Dec 06 18:23:26 MST 2013 Star_: Still haven't figured out have to make mine refreshable
+Fri Dec 06 18:24:44 MST 2013 Star_: Do you have the source of yours some where? (If I may)
+Fri Dec 06 18:25:22 MST 2013 Caaz: Oh yeah sure hold on a second.
+Fri Dec 06 18:26:01 MST 2013 Star_: I suggest github
+Fri Dec 06 18:27:10 MST 2013 Caaz: Never considered that, I've been going with dropbox.
+Fri Dec 06 18:27:11 MST 2013 Caaz: https://dl.dropboxusercontent.com/u/9305622/L3/3.3/Luka.pl
+Fri Dec 06 18:28:05 MST 2013 Star_: Git is an anazing version control system
+Fri Dec 06 18:28:07 MST 2013 Star_: Amazing*
+Fri Dec 06 18:28:29 MST 2013 Star_: It helps you keep track of changes
+Fri Dec 06 18:29:04 MST 2013 Star_: And if you ever need to rebase/rollback, it keeps the old files
+Fri Dec 06 18:30:05 MST 2013 Star_: Do you have skype?
+Fri Dec 06 18:30:32 MST 2013 Caaz: Actually my system keeps track of changes too, and yes, I do, but my internet is far too slow to actually use it for anything besides text chat anyway.
+Fri Dec 06 18:30:43 MST 2013 Star_: Lol
+Fri Dec 06 18:30:54 MST 2013 Star_: I just thunk git is easier
+Fri Dec 06 18:31:05 MST 2013 Star_: But all matter if opinion
+Fri Dec 06 18:31:10 MST 2013 Star_: Of*
